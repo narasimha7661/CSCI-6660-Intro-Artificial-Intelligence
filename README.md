@@ -1,1 +1,0 @@
-# CSCI-6660-Intro-Artificial-Intelligence
